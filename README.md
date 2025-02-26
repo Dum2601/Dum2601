@@ -21,7 +21,6 @@ I am a **Brazil-based programmer** and a **Bachelor's degree holder**, planning 
 
 ## **💼 Professional Experience**  
 🔹 **Computer Technician (Freelancer)**  
-🔹 **Intern at Polisystem - Soluções Tecnológicas LTDA**  
 🔹 **Software Analyst at Polisystem - Soluções Tecnológicas LTDA**  
 🔹 **Software Tester at Polisystem - Soluções Tecnológicas LTDA**  
 🔹 **(Currently) Software Implementation Team at Polisystem - Soluções Tecnológicas LTDA**  
