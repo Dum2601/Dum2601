@@ -1,4 +1,4 @@
-# About Me  
+# **About Me**  
 
 Hello, I'm **Douglas!**  
 
@@ -49,7 +49,8 @@ I am a **Brazil-based programmer** and a **Bachelor's degree holder**, planning 
 
 ---
 
-📫 **Contact Me:**  
+## 📫 **Contact Me**  
 📧 **Email:** [Doug_b_souza@hotmail.com](mailto:Doug_b_souza@hotmail.com)  
 🌐 **GitHub:** [Dum2601](https://github.com/Dum2601)  
 📱 **WhatsApp:** [+55 71 99288-2801](https://wa.me/5571992882801)  
+🔗 **LinkedIn:** [Douglas Souza Barbosa](https://www.linkedin.com/in/douglas-souza-barbosa-2698b31b9/)  
