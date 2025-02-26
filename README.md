@@ -9,12 +9,13 @@ I have knowledge in languages such as Spanish (A2), German (A1), Italian (A1) an
 
 Professional Experience in technology area: 
 
-Computer Technician (freelancer) || Intern in Polisystem - Soluções Tecnológicas LTDA || Software Analist in Polisystem - Soluções Tecnológicas LTDA || Software Tester in Polisystem - Soluções Tecnológicas LTDA || **(Currently) Software's Implatation Team in Polisystem - Soluções Tecnológicas LTDA** 
+Computer Technician (freelancer) || Intern in Polisystem - Soluções Tecnológicas LTDA || Software Analist in Polisystem - Soluções Tecnológicas LTDA || Software Tester in Polisystem - Soluções Tecnológicas LTDA || 
+**(Currently) Software's Implatation Team in Polisystem - Soluções Tecnológicas LTDA** 
 
 
 Technologies I use most:
 
-JavaScript ||  Express.js || Node.js || Python || SQL. || 
+JavaScript ||  Express.js || Node.js || Python || SQL.
 
 Next on list:
 
