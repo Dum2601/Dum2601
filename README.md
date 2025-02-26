@@ -1,22 +1,55 @@
-About Me
+# About Me  
 
-Hello, I'm Douglas!
+Hello, I'm **Douglas!**  
 
-I am currently a Brazil-based programmer, a Bachelor's degree holder and planning to pursue more degrees in the future. I started my studies in programming languages by playing with Arduino when I was a teenager and started learning other languages like c, c++, java. I'm focusing on web development and learning JavaScript, Python and considering Ruby as a back-end option.
+I am a **Brazil-based programmer** and a **Bachelor's degree holder**, planning to pursue more degrees in the future.  
 
-I am fluent in Brazilian Portuguese (native) and proficient in English (B2) and also studying English professionally to further improve my skills.
-I have knowledge in languages such as Spanish (A2), German (A1), Italian (A1) and planning start with Japanese in future.
+💻 My journey in programming began with **Arduino** when I was a teenager, which led me to explore languages like **C, C++, and Java**.  
+🚀 Currently, I’m **focusing on web development**, learning **JavaScript and Python**, and considering **Ruby** as a back-end option.  
 
-Professional Experience in technology area: 
+---
 
-Computer Technician (freelancer) || Intern in Polisystem - Soluções Tecnológicas LTDA || Software Analist in Polisystem - Soluções Tecnológicas LTDA || Software Tester in Polisystem - Soluções Tecnológicas LTDA || 
-**(Currently) Software's Implatation Team in Polisystem - Soluções Tecnológicas LTDA** 
+## **🌎 Languages I Speak**  
+- 🇧🇷 **Brazilian Portuguese** (Native)  
+- 🇬🇧 **English** (B2 - Proficient) *(Currently studying professionally to improve further)*  
+- 🇪🇸 **Spanish** (A2 - Basic)  
+- 🇩🇪 **German** (A1 - Basic)  
+- 🇮🇹 **Italian** (A1 - Basic)  
+- 🇯🇵 **Japanese** *(Planning to start in the future)*  
 
+---
 
-Technologies I use most:
+## **💼 Professional Experience**  
+🔹 **Computer Technician (Freelancer)**  
+🔹 **Intern at Polisystem - Soluções Tecnológicas LTDA**  
+🔹 **Software Analyst at Polisystem - Soluções Tecnológicas LTDA**  
+🔹 **Software Tester at Polisystem - Soluções Tecnológicas LTDA**  
+🔹 **(Currently) Software Implementation Team at Polisystem - Soluções Tecnológicas LTDA**  
 
-JavaScript ||  Express.js || Node.js || Python || SQL.
+---
 
-Next on list:
+## **🛠️ Technologies I Use Most**  
+✔ **JavaScript**  
+✔ **Express.js**  
+✔ **Node.js**  
+✔ **Python**  
+✔ **SQL**  
 
-Ruby || On Rails || React.js || MongoDB || Prisma || Electron || GraphQL || And more...
+---
+
+## **📌 Next on My Learning List**  
+🔜 **Ruby**  
+🔜 **Ruby on Rails**  
+🔜 **React.js**  
+🔜 **MongoDB**  
+🔜 **Prisma**  
+🔜 **Electron**  
+🔜 **GraphQL**  
+🔜 **And more...**  
+
+---
+
+📫 **Contact Me:**  
+📧 **Email:** [Doug_b_souza@hotmail.com](mailto:Doug_b_souza@hotmail.com)  
+🌐 **GitHub:** [Dum2601](https://github.com/Dum2601)  
+📱 **WhatsApp:** [+55 71 99288-2801](https://wa.me/5571992882801)  
