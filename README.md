@@ -10,12 +10,15 @@ I am a **Brazil-based programmer** and a **Bachelor's degree holder**, planning 
 ---
 
 ## **🌎 Languages I Speak**  
-![Portuguese](https://img.shields.io/badge/🇧🇷-Portuguese-green)  
-![English](https://img.shields.io/badge/🇬🇧-English-blue)  
-![Spanish](https://img.shields.io/badge/🇪🇸-Spanish-yellow)  
-![German](https://img.shields.io/badge/🇩🇪-German-black)  
-![Italian](https://img.shields.io/badge/🇮🇹-Italian-red)  
-![Japanese](https://img.shields.io/badge/🇯🇵-Japanese-white) *(Planning to start in the future)*  
+
+| Language            | Proficiency |  
+|---------------------|------------|  
+| 🇧🇷 **Portuguese**  | Native     |  
+| 🇬🇧 **English**     | B2 (Proficient) *(Currently studying professionally to improve further)* |  
+| 🇪🇸 **Spanish**     | A2 (Basic) |  
+| 🇩🇪 **German**      | A1 (Basic) |  
+| 🇮🇹 **Italian**     | A1 (Basic) |  
+| 🇯🇵 **Japanese**    | *(Planning to start in the future)* |  
 
 ---
 
