@@ -5,7 +5,7 @@ Hello, I'm **Douglas!**
 I am a **Brazil-based programmer** and a **Bachelor's degree holder**, planning to pursue more degrees in the future.  
 
 💻 My journey in programming began with **Arduino** when I was a teenager, which led me to explore languages like **C, C++, and Java**.  
-🚀 Currently, I’m **focusing on web development**, learning **JavaScript and Python**, and considering **Ruby** as a back-end option.  
+🚀 Currently, I’m **focusing on Data Science**, learning **JavaScript and Python**, and considering **Ruby** as a back-end option.  
 
 ---
 
