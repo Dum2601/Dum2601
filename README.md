@@ -14,7 +14,7 @@ I am a **Brazil-based programmer** and a **Bachelor's degree holder**, planning 
 | Language            | Proficiency |  
 |---------------------|------------|  
 | 🇧🇷 **Portuguese**  | Native     |  
-| 🇬🇧 **English**     | B2 (Proficient) *(Currently studying professionally to improve further)* |  
+| 🇬🇧 **English**     | C1 (Proficient) *(Currently studying professionally to improve further)* |  
 | 🇪🇸 **Spanish**     | B1 (Intermediary) |  
 | 🇩🇪 **German**      | A1 (Basic) |  
 | 🇮🇹 **Italian**     | A1 (Basic) |  
