@@ -49,18 +49,6 @@ I am a **Brazil-based programmer** and a **Bachelor's degree holder**, planning 
 
 ---
 
-## **📌 Next on My Learning List**  
-🔜 ![Ruby](https://img.shields.io/badge/-Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white)  
-🔜 ![Ruby on Rails](https://img.shields.io/badge/-Ruby_on_Rails-CC0000?style=flat-square&logo=rubyonrails&logoColor=white)  
-🔜 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)  
-🔜 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)  
-🔜 ![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)  
-🔜 ![Electron](https://img.shields.io/badge/-Electron-47848F?style=flat-square&logo=electron&logoColor=white)  
-🔜 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)  
-🔜 **And more...**  
-
----
-
 ## 📫 **Contact Me**  
 📧 **Email:** [Doug_b_souza@hotmail.com](mailto:Doug_b_souza@hotmail.com)  
 🌐 **GitHub:** [Dum2601](https://github.com/Dum2601)  
