@@ -26,7 +26,7 @@ I am a **Brazil-based programmer** and a **Bachelor's degree holder**, planning 
 🔹 **Computer Technician (Freelancer)**  
 🔹 **Software Analyst at Polisystem - Soluções Tecnológicas LTDA**  
 🔹 **Software Tester at Polisystem - Soluções Tecnológicas LTDA**  
-🔹 **Software Implementation Team at Polisystem - Soluções Tecnológicas LTDA**
+🔹 **Software Implementation Team at Polisystem - Soluções Tecnológicas LTDA**      
 🔹 **(Currently) Support Analyst JR at Sudoeste Informática LTDA** 
 
 ---
