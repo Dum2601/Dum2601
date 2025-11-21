@@ -1,6 +1,6 @@
 # **About Me**
 
-▁▂▃▄▅▆▇█ **Douglas Online** █▇▆▅▄▃▂▁
+▁▂▃▄▅▆▇█ **Douglas** █▇▆▅▄▃▂▁
 
 **Brazil-based Programmer // Digital Wanderer // Knowledge Seeker**
 
