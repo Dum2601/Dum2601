@@ -74,9 +74,9 @@ Today, my focus is primarily on **Data Science**, growing through **JavaScript**
 
 ```
 ┌───────────────────────────────────────────────────────────────────────────────────────────────────────────────┐
-│  EMAIL: ![Doug_b_souza@hotmail.com](https://mailto:Doug_b_souza@hotmail.com)                                  │
-│  GITHUB: ![Dum2601](github.com/Dum2601)                                                                       │
-│  WHATSAPP: +55 71 99288-2801                                                                                  │
-│  LINKEDIN: [Douglas Souza Barbosa](https://www.linkedin.com/in/douglas-souza-barbosa-2698b31b9/)              │
+│  EMAIL:    [Doug_b_souza@hotmail.com](mailto:Doug_b_souza@hotmail.com)                                       │
+│  GITHUB:   [Dum2601](https://github.com/Dum2601)                                                             │
+│  WHATSAPP: +55 71 99288-2801                                                                                 │
+│  LINKEDIN: [Douglas Souza Barbosa](https://www.linkedin.com/in/douglas-souza-barbosa-2698b31b9/)             │
 └───────────────────────────────────────────────────────────────────────────────────────────────────────────────┘
 ```
