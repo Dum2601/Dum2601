@@ -67,7 +67,8 @@ Today, my focus is primarily on **Data Science**, growing through **JavaScript**
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dum2601\&layout=compact\&theme=tokyonight)
 
 
-![Metrics](https://metrics.lecoq.io/Dum2601?template=classic&base.activity=0&config.timezone=America%2FSao_Paulo)
+![repos](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dum2601&theme=tokyonight)
+![commits](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Dum2601&theme=tokyonight)
 
 ---
 
