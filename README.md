@@ -64,7 +64,10 @@ Today, my focus is primarily on **Data Science**, growing through **JavaScript**
 
 ## **📈 GitHub Stats**
 
-[![My GitHub Starred Repos](https://raw.githubusercontent.com/Dum2601/star-list/main/README.md)](https://github.com/Dum2601?tab=stars)
+![Commits this year](https://img.shields.io/github/commit-activity/y/Dum2601/Dum2601?label=Commits%20este%20ano)
+![Commits this month](https://img.shields.io/github/commit-activity/m/Dum2601/Dum2601?label=Commits%20este%20mês)
+![Commits this week](https://img.shields.io/github/commit-activity/w/Dum2601/Dum2601?label=Commits%20esta%20semana)
+
 
 ![repos](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dum2601&theme=tokyonight)
 ![commits](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Dum2601&theme=tokyonight)
