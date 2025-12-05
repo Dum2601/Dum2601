@@ -64,7 +64,7 @@ Today, my focus is primarily on **Data Science**, growing through **JavaScript**
 
 ## **📈 GitHub Stats**
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Dum2601&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats-4g5g.vercel.app/api/top-langs/?username=Dum2601&layout=compact&theme=tokyonight)
 
 ![repos](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dum2601&theme=tokyonight)
 ![commits](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Dum2601&theme=tokyonight)
