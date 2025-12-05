@@ -64,7 +64,7 @@ Today, my focus is primarily on **Data Science**, growing through **JavaScript**
 
 ## **📈 GitHub Stats**
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dum2601&show_icons=true&theme=tokyonight&card_width=350)
+![GitHub stars](https://img.shields.io/github/stars/Dum2601?style=for-the-badge)
 
 
 ![repos](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dum2601&theme=tokyonight)
