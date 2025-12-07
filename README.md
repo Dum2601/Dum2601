@@ -66,15 +66,6 @@ Today, my focus is primarily on **Data Science**, growing through **JavaScript**
 
 ## 📈 Commit Frequency
 
-### 🔶 Commits this year
-![Commits this year](https://img.shields.io/github/commit-activity/y/Dum2601/Dum2601?label=Commits%20este%20ano)
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Dum2601&theme=github" />
-</p>
-
----
-
 ### 🔷 Commits this month
 ![Commits this month](https://img.shields.io/github/commit-activity/m/Dum2601/Dum2601?label=Commits%20este%20mês)
 
