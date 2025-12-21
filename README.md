@@ -4,7 +4,7 @@
 
 **Brazil-based Programmer // Digital Wanderer // Knowledge Seeker**
 
-I am a **Bachelor's degree holder** with plans to pursue further academic paths.
+I am a **Bachelor's/Specialist degree holder** with plans to pursue further academic paths.
 My journey began with **Arduino** in my teenage years—unlocking the worlds of **C, C++ and Java**.
 Today, my focus is primarily on **Data Science**, growing through **JavaScript** and **Python**, while also considering **Ruby** for back-end development.
 
