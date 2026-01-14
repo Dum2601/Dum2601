@@ -41,9 +41,9 @@ Today, my focus is primarily on **Data Science**, growing through **JavaScript**
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
 
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge\&logo=node.js\&logoColor=white)
-
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+
+![Ruby](https://img.shields.io/badge/-Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
 
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge\&logo=postgresql\&logoColor=white)
 
