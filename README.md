@@ -20,8 +20,6 @@ Today, my focus is primarily on **Data Science**, growing through **JavaScript**
 │ 🇬🇧 English          │ C1 (Proficient)             │
 │ 🇪🇸 Spanish          │ B1 (Intermediary)           │
 │ 🇩🇪 German           │ A1 (Basic)                  │
-│ 🇮🇹 Italian          │ A1 (Basic)                  │
-│ 🇯🇵 Japanese         │ Planned for the future      │
 └─────────────────────┴─────────────────────────────┘
 ```
 
